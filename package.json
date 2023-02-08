@@ -8,8 +8,8 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Roger Jaffe",
+  "license": "GPL",
   "dependencies": {
     "typescript": "^4.9.5"
   },
